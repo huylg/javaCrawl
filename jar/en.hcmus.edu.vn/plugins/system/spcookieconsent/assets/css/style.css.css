@@ -1,0 +1,110 @@
+/**
+ * @package SP Cookie Consent
+ * @author JoomShaper https://www.joomshaper.com
+ * @copyright Copyright (c) 2010 - 2020 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or Later
+*/
+
+#sp-cookie-consent *,
+#sp-cookie-consent *::before,
+#sp-cookie-consent *::after {
+	box-sizing: border-box;
+}
+
+#sp-cookie-consent {
+	position: fixed;
+	font-size: 16px;
+	font-weight: 500;
+	bottom: 0;
+	z-index: 10001;
+}
+
+#sp-cookie-consent a,
+#sp-cookie-consent a:hover {
+	text-decoration: underline;
+}
+
+#sp-cookie-consent.position-bottom_left,
+#sp-cookie-consent.position-bottom_right {
+	width: 400px;
+	max-width: 100%;
+	border-radius: 4px;
+	bottom: 20px;
+}
+
+#sp-cookie-consent.position-bottom_left {
+	left: 20px;
+}
+
+#sp-cookie-consent.position-bottom_right {
+	right: 20px;
+}
+
+#sp-cookie-consent.position-bottom {
+	left: 0;
+	width: 100%;
+	display: table;
+}
+
+#sp-cookie-consent > div {
+	padding: 20px;
+	position: relative;
+}
+
+#sp-cookie-consent.position-bottom > div {
+	-ms-flex-align: center!important;
+    align-items: center!important;
+	display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+#sp-cookie-consent.position-bottom > div > .sp-cookie-consent-action {
+	margin-top: 15px;
+}
+
+@media (min-width: 992px) {
+	#sp-cookie-consent.position-bottom > div > .sp-cookie-consent-content {
+		-ms-flex: 0 0 75%;
+		flex: 0 0 75%;
+		max-width: 75%;
+	}
+
+	#sp-cookie-consent.position-bottom > div > .sp-cookie-consent-action {
+		-ms-flex: 0 0 25%;
+		flex: 0 0 25%;
+		max-width: 25%;
+		margin-top: 0;
+		text-align: right;
+	}
+}
+
+#sp-cookie-consent .sp-cookie-allow {
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	padding: 7px 15px;
+	font-size: 90%;
+	font-weight: bold;
+	line-height: 1.5;
+	border-radius: .25rem;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#sp-cookie-consent.position-bottom_left .sp-cookie-allow,
+#sp-cookie-consent.position-bottom_right .sp-cookie-allow {
+	margin-top: 15px;
+}
+
+#sp-cookie-consent .sp-cookie-allow:hover,
+#sp-cookie-consent .sp-cookie-allow:focus,
+#sp-cookie-consent .sp-cookie-allow:active {
+	text-decoration: none;
+}

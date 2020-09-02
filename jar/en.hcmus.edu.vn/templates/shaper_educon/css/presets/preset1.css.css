@@ -1,0 +1,524 @@
+a {
+  color: #3f51b5;
+}
+a:hover,
+a:focus {
+  color: #ffc94e;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #3f51b5;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #3f51b5;
+}
+#offcanvas-toggler >i {
+  color: #030303;
+}
+#offcanvas-toggler >i:hover {
+  color: #3f51b5;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #3f51b5;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  background-color: #ffc94e;
+}
+ul.social-icons >li a:hover {
+  color: #3f51b5;
+}
+.layout-boxed .body-innerwrapper {
+  background: #f9f9f9;
+}
+.sp-module ul >li >a {
+  color: #030303;
+}
+.sp-module ul >li >a:hover {
+  color: #3f51b5;
+}
+.sp-module .latestnews >div >a {
+  color: #030303;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #3f51b5;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #3f51b5;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #3f51b5;
+}
+.search .btn-toolbar button {
+  background: #3f51b5;
+}
+.post-format {
+  background: #3f51b5;
+}
+.voting-symbol span.star.active:before {
+  color: #3f51b5;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #32408f;
+}
+.entry-link,
+.entry-quote {
+  background: #ffc94e;
+}
+blockquote {
+  border-color: #3f51b5;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #3f51b5;
+}
+.sp-comingsoon .sp-comingsoon-countdown >div >span {
+  color: #030303;
+}
+.sp-comingsoon .sp-comingsoon-countdown >div >span.number {
+  color: #3f51b5;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #030303;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #030303;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #3f51b5;
+  background-color: #3f51b5;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #3f51b5;
+  background-color: #3f51b5;
+}
+body {
+  background-color: #f9f9f9;
+  color: #030303;
+}
+.article-info > dd,
+.article-info > dd a,
+.tags a,
+.view-speaker .view-splms-speaker .splms-person-details a,
+.view-teacher .view-splms-teacher .splms-person-details a,
+.splms.splms-view-event-categories .splms-event-category .splms-event-category-info p,
+.com-splms.view-course .view-splms-course .splms-course-quizzes li a,
+.splms.splms-persons .splms-person-content,
+.splms.splms-persons .splms-person-content a,
+.sp-my-account ul.nav > li > a,
+.view-tag .tag-category .category.list-striped li h3 a,
+.addon-splms-courses,
+.addon-splms-courses .splms-course-category .splms-course-info a.course-category,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore:after,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-prev:before,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-next:before,
+.sppb-btn.more-events,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info-wrap .sppb-article-introtext,
+.view-category .items-more a {
+  color: #030303;
+}
+.btn.btn-link:hover,
+.sppb-btn.btn-link:hover,
+.btn.sppb-btn-link:hover,
+.sppb-btn.sppb-btn-link:hover,
+.btn.btn-link:focus,
+.sppb-btn.btn-link:focus,
+.btn.sppb-btn-link:focus,
+.sppb-btn.sppb-btn-link:focus,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:before,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active > a,
+.pagination>li>a,
+.pagination>li>span,
+.view-article .helix-social-share .helix-social-share-icon ul li div a:hover,
+.view-article .helix-social-share .helix-social-share-icon ul li div a:focus,
+.error-page .error-code,
+.error-page .error-page-copyright-wrapper a:hover,
+.error-page .error-page-copyright-wrapper a:focus,
+.event-details-section .sppb-addon-text-block .upcoming-events-info ul li:before,
+.splms.splms-view-event .event-details-wrape .splms-event-detail-list li:before,
+.educon-contact-info .sppb-social-icons >span >a:hover,
+.educon-contact-info .sppb-social-icons >span >a:focus,
+.educon-topics-wrapper .common-topics li a:hover,
+.educon-topics-wrapper .common-topics li a:focus,
+.educon-topics-wrapper .sppb-addon-accordion .sppb-panel-default .sppb-panel-heading .sppb-panel-title:hover,
+.educon-topics-wrapper .sppb-addon-accordion .sppb-panel-default .sppb-panel-heading .sppb-panel-title:focus,
+.event-details-section .sppb-addon-social-share .sppb-social-share .sppb-social-share-wrap ul li a:hover,
+.event-details-section .sppb-addon-social-share .sppb-social-share .sppb-social-share-wrap ul li a:focus,
+.splms.splms-view-events .splms-event-info-list li:before,
+.splms.splms-view-event .speaker-social-icon .social-icons span a:hover,
+.splms.splms-view-event .speaker-social-icon .social-icons span a:focus,
+.event-details-bottom .social-share .social-items-wrap ul li a:hover,
+.event-details-bottom .social-share .social-items-wrap ul li a:focus,
+.sppb-addon-animated-number .sppb-addon-content .sppb-icon-inner,
+.home-upcoming-events .upcoming-events-info ul li:before,
+.article-info > dd a:hover,
+.article-info > dd a:focus,
+.tags a:hover,
+.tags a:focus,
+.entry-header h2 a:hover,
+.entry-header h2 a:focus,
+.view-speaker .view-splms-speaker .splms-person-details a:hover,
+.view-speaker .view-splms-speaker .splms-person-details a:focus,
+.view-teacher .view-splms-teacher .splms-person-details a:hover,
+.view-teacher .view-splms-teacher .splms-person-details a:focus,
+.com-splms.view-course .view-splms-course .splms-course-quizzes li a:hover,
+.com-splms.view-course .view-splms-course .splms-course-quizzes li a:focus,
+.splms.splms-persons .splms-person-info-wrap .splms-person-info .splms-person-title:hover,
+.splms.splms-persons .splms-person-info-wrap .splms-person-info .splms-person-title:focus,
+.splms.splms-persons .splms-person-info-wrap .splms-persion-social-icons > li > a:hover,
+.splms.splms-persons .splms-person-info-wrap .splms-persion-social-icons > li > a:focus,
+.splms.splms-view-event .event-details-speaker .event-speaker .event-speaker-info-wrap .speaker-title:hover,
+.splms.splms-view-event .event-details-speaker .event-speaker .event-speaker-info-wrap .speaker-title:focus,
+.sp-my-account ul.nav > li > a:hover,
+.sp-my-account ul.nav > li > a:focus,
+.com-search.view-search .search-results-wrap .result-title a:hover,
+.com-search.view-search .search-results-wrap .result-title a:focus,
+.mod-splms-course-search .splms-course-search-icons,
+.splms-course-categories .splms-row.splms-course-category-wrapper .splms-course-category .splms-coursescategory-wrapper .splms-cat-title a i,
+.mod-splms-course-categoies .lms-single-category a i,
+.sp-pagebuilder-column.lms-features-list .sppb-addon-feature .sppb-icon i,
+.sppb-column.lms-features-list .sppb-addon-feature .sppb-icon i,
+.view-tag .tag-category .category.list-striped li h3 a:hover,
+.view-tag .tag-category .category.list-striped li h3 a:focus,
+.view-category .items-more a:hover,
+.view-category .items-more a:focus
+.sppb-major-btn-link.btn.sppb-btn-link,
+.sppb-major-btn-link .btn.sppb-btn-link,
+.sppb-major-btn-link.sppb-btn.sppb-btn-link,
+.sppb-major-btn-link .sppb-btn.sppb-btn-link,
+.educon-latest-news-wrap .educon-latest-news .latestnews > div a:hover,
+.educon-latest-news-wrap .educon-latest-news .latestnews > div a:focus,
+.sppb-addon-animated-number.major-color .sppb-animated-number,
+.home-callto-action2 .sppb-addon-cta .sppb-btn,
+.educon-notice-board .latestnews > div .latestnews-date,
+.addon-splms-courses .customNavigation a:hover,
+.splms-course-carousel .customNavigation a:hover,
+.addon-splms-courses .customNavigation a:focus,
+.splms-course-carousel .customNavigation a:focus,
+.addon-splms-courses .splms-course-category .splms-course-info a.course-category:hover,
+.addon-splms-courses .splms-course-category .splms-course-info a.course-category:focus,
+.addon-splms-courses .splms-course-category .splms-course-info h3.splms-courses-title a:hover,
+.addon-splms-courses .splms-course-category .splms-course-info h3.splms-courses-title a:focus,
+.sppb-addon-articles-slider .articles-slider .sppb-article-meta,
+.sppb-addon-articles-slider .articles-slider .sppb-article-meta a,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-prev:hover:before,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-next:hover:before,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-prev:focus:before,
+.sppb-addon-articles-slider .articles-slider .owl-controls .owl-next:focus:before {
+  color: #3f51b5;
+}
+.btn.btn-info,
+.sppb-btn.btn-info,
+.btn.sppb-btn-info,
+.sppb-btn.sppb-btn-info,
+.splms.splms-view-events .splms-event-details .splms-event-title a:hover,
+.splms.splms-view-events .splms-event-details .splms-event-title a:focus,
+#sp-footer a:hover,
+.home-upcoming-events .sppb-addon-text-block .sppb-addon-title a:hover,
+.home-upcoming-events .sppb-addon-text-block .sppb-addon-title a:focus,
+.splms-course-categories .splms-coursescategory-wrapper:hover .splms-cat-title,
+.splms-course-categories .splms-coursescategory-wrapper:focus .splms-cat-title,
+.splms-course-categories .splms-coursescategory-wrapper:hover .splms-cat-icon a,
+.splms-course-categories .splms-coursescategory-wrapper:focus .splms-cat-icon a,
+.sp-menu-item .sp-dropdown-inner .view-splms-courses .splms-course .splms-courses-title a:hover,
+.sp-menu-item .sp-dropdown-inner .view-coursescategory .splms-course .splms-courses-title a:hover,
+.sp-menu-item .sp-dropdown-inner .view-splms-courses .splms-course .splms-courses-title a:focus,
+.sp-menu-item .sp-dropdown-inner .view-coursescategory .splms-course .splms-courses-title a:focus,
+.sppb-major-btn-link.btn.sppb-btn-link:hover,
+.sppb-major-btn-link .btn.sppb-btn-link:hover,
+.sppb-major-btn-link.sppb-btn.sppb-btn-link:hover,
+.sppb-major-btn-link .sppb-btn.sppb-btn-link:hover,
+.sppb-major-btn-link.btn.sppb-btn-link:focus,
+.sppb-major-btn-link .btn.sppb-btn-link:focus,
+.sppb-major-btn-link.sppb-btn.sppb-btn-link:focus,
+.sppb-major-btn-link .sppb-btn.sppb-btn-link:focus,
+.educon-video-popup .sppb-social-icons span:hover,
+.educon-video-popup .sppb-social-icons span:focus,
+.educon-notice-board .latestnews > div a:not(.sppb-btn):hover,
+.educon-notice-board .latestnews > div a:not(.sppb-btn):focus,
+.sppb-addon-articles-slider .articles-slider .sppb-article-meta a:hover,
+.sppb-addon-articles-slider .articles-slider .sppb-article-meta a:focus,
+.sppb-addon-articles-slider .articles-slider p.article-title a:hover,
+.sppb-addon-articles-slider .articles-slider p.article-title a:focus,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore:hover,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore:focus,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore:hover:after,
+.sppb-addon-articles-slider .articles-slider a.sppb-readmore:focus:after,
+.sppb-btn.more-events:hover,
+.sppb-btn.more-events:focus,
+.sppb-addon-tweet .sppb-tweet-text a:hover,
+.sppb-addon-tweet .sppb-tweet-text a:focus,
+.sppb-addon-tweet span.sppb-tweet-username a:hover,
+.sppb-addon-tweet span.sppb-tweet-username a:focus,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info-wrap h3 a:hover,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info-wrap h3 a:focus {
+  color: #ffc94e;
+}
+.take-a-tour .sppb-modal-selector.sppb-magnific-popup:hover span {
+  color: #ffc94e !important;
+}
+.com-content-adminForm .tab-pane .post-formats label,
+.btn,
+.sppb-btn,
+.btn.btn-info:hover,
+.sppb-btn.btn-info:hover,
+.btn.sppb-btn-info:hover,
+.sppb-btn.sppb-btn-info:hover,
+.btn.btn-info:focus,
+.sppb-btn.btn-info:focus,
+.btn.sppb-btn-info:focus,
+.sppb-btn.sppb-btn-info:focus,
+.sp-megamenu-parent > li > a:before,
+body .pagination >li:nth-child(2) a,
+body .pagination >li:nth-last-child(2) a,
+.view-article article.item .published-date-wrap .published-date,
+.educon-notice-board article.item .educon-notice .published-date,
+.educon-topics-wrapper .common-topics li a:hover:before,
+.educon-topics-wrapper .common-topics li a:focus:before,
+.educon-topics-wrapper .sppb-addon-accordion .sppb-panel-default .sppb-panel-heading:before,
+.event-details-section .sppb-addon-single-image .sppb-addon-title,
+.splms-readmore.btn-primary,
+.splms.view-splms-course.course-details .btn.btn-primary,
+.splms.splms-view-event .splms-event-image .event-date,
+.event-details-bottom .btn.btn-primary,
+#sp-top-bar,
+.view-registration #sp-main-body,
+.view-login #sp-main-body,
+article.item .content-wrap .published-date,
+.helix-social-share .helix-social-share-icon ul li div a:hover,
+.helix-social-share .helix-social-share-icon ul li div a:focus,
+.view-splms-quiz-list .quiz-item-wrapper .quiz-description .btn.btn-primary,
+.view-quizquestion .splms.view-splms-quiz .btn.btn-primary,
+.view-quizquestion .splms.view-splms-quiz .btn.btn-default,
+.splms.splms-view-events .splms-event-details .btn.btn-primary,
+.scrollup,
+.splms-course-categories .splms-row.splms-course-category-wrapper .splms-course-category .splms-coursescategory-wrapper:hover,
+.mod-splms-course-categoies .lms-single-category:hover,
+.search .page-title,
+.view-category .page-header,
+.border-heading-style.sppb-addon-text-block .sppb-addon-title:before,
+.border-heading-style.sppb-addon-header .sppb-addon-title:before,
+.carousel-controller.splms-course-carousel .splms-course-title:before,
+.addon-splms-courses .splms-course-title:before,
+.owl-carousel .owl-controls .owl-dots .owl-dot.active span,
+.educon-latest-news-wrap .educon-latest-news .sppb-addon-title,
+.sppb-addon-tweet .sppb-tweet-slider .sppb-carousel-indicators li:before,
+.speasyimagegallery-albums .speasyimagegallery-album:hover .speasyimagegallery-album-info {
+  background: #3f51b5;
+}
+.com-content-adminForm .tab-pane .post-formats label:hover,
+.com-content-adminForm .tab-pane .post-formats label.active,
+.btn:hover,
+.sppb-btn:hover,
+.btn:focus,
+.sppb-btn:focus,
+.btn.btn-default:hover,
+.sppb-btn.btn-default:hover,
+.btn.sppb-btn-default:hover,
+.sppb-btn.sppb-btn-default:hover,
+.btn.btn-default:focus,
+.sppb-btn.btn-default:focus,
+.btn.sppb-btn-default:focus,
+.sppb-btn.sppb-btn-default:focus,
+.pager li>a:hover,
+.pager li>a:focus,
+.pager li>span:hover,
+.pager li>span:focus,
+body .pagination >li.active>a,
+body .pagination >li >a:hover,
+body .pagination >li >a:focus,
+.pagination>.disabled>a,
+.pagination>.disabled>a:focus,
+.pagination>.disabled>a:hover,
+.pagination>.disabled>span,
+.pagination>.disabled>span:focus,
+.pagination>.disabled>span:hover,
+.view-article .sppb-addon-button-group .sppb-btn.sppb-btn-info,
+.educon-notice-board article.item:hover .educon-notice .published-date,
+.educon-notice-board article.item:hover .educon-notice a.btn.btn-primary,
+.event-callto-action .sppb-addon.sppb-addon-cta .sppb-btn.sppb-btn-default,
+.course-callto-action .sppb-addon.sppb-addon-cta .sppb-btn.sppb-btn-default,
+.splms-readmore.btn-primary:hover,
+.splms-readmore.btn-primary:focus,
+.splms.view-splms-course.course-details .btn.btn-primary:hover,
+.splms.view-splms-course.course-details .btn.btn-primary:focus,
+.event-details-bottom .btn.btn-primary:hover,
+.event-details-bottom .btn.btn-primary:focus,
+.splms.splms-view-events .splms-event-details .btn.btn-primary:hover,
+.splms.splms-view-events .splms-event-details .btn.btn-primary:focus,
+.home-callto-action2 .sppb-addon-cta .sppb-btn:hover,
+.home-callto-action2 .sppb-addon-cta .sppb-btn:focus,
+.sppb-addon-button-group.lms-categories-button .sppb-btn-default.sppb-btn-lg:hover,
+.sppb-addon-button-group.lms-categories-button .sppb-btn-default.sppb-btn-lg:focus {
+  background: #ffc94e;
+}
+.view-article .sppb-addon-button-group .sppb-btn.sppb-btn-info:hover,
+.view-article .sppb-addon-button-group .sppb-btn.sppb-btn-info:focus {
+  background-color: #ffb91b;
+}
+.scrollup:hover {
+  background-color: #3849a2;
+}
+.event-callto-action .sppb-addon.sppb-addon-cta:before,
+.course-callto-action .sppb-addon.sppb-addon-cta:before,
+.sp-page-title:before {
+  background: rgba(63,81,181,0.95);
+}
+.home-our-achievement:before,
+.home-upcoming-events .sppb-addon-single-image .sppb-addon-title,
+.splms.splms-view-events .event-date-wrape .event-date,
+.major-color-overlay:after,
+.home-callto-action2::before,
+.educon-video-popup a.sppb-modal-selector.sppb-magnific-popup:before,
+.educon-video-popup2:after {
+  background: rgba(63,81,181,0.9);
+}
+.splms.splms-view-events .event-date-wrape .event-date:before,
+.sppb-addon-gallery ul.sppb-gallery >li a:after,
+.speasyimagegallery-gallery .speasyimagegallery-gallery-item > div:after {
+  background: rgba(63,81,181,0.85);
+}
+.home-feature .sppb-addon-feature .sppb-img-container:before,
+.home-upcoming-events .sppb-row:hover .sppb-addon-single-image .sppb-addon-title,
+.home-callto-action:before,
+.splms.splms-view-events .splms-row:hover .splms-event-details .event-date-wrape .event-date {
+  background: rgba(255,201,78,0.9);
+}
+.splms.splms-view-events .row:hover .event-date-wrape .event-date:before,
+.splms.splms-view-events .splms-row:hover .event-date-wrape .event-date:before {
+  background: rgba(255,201,78,0.85);
+}
+.take-a-tour .sppb-modal-selector.sppb-magnific-popup:hover span {
+  color: #ffc94e !important;
+}
+.take-a-tour:before {
+  background: rgba(63,81,181,0.86);
+}
+.sppb-ajaxt-contact-form .sppb-form-group input:focus,
+.sppb-ajaxt-contact-form .sppb-form-group input:active,
+.sppb-ajaxt-contact-form .sppb-form-group textarea:focus,
+.sppb-ajaxt-contact-form .sppb-form-group textarea:active,
+.top-search-input-wrap .search-wrap .educon-top-search input,
+.addon-splms-courses .customNavigation a:hover,
+.splms-course-carousel .customNavigation a:hover,
+.addon-splms-courses .customNavigation a:focus,
+.splms-course-carousel .customNavigation a:focus,
+.owl-carousel .owl-controls .owl-dots .owl-dot.active span {
+  border-color: #3f51b5;
+}
+.btn.btn-default:hover,
+.sppb-btn.btn-default:hover,
+.btn.sppb-btn-default:hover,
+.sppb-btn.sppb-btn-default:hover,
+.btn.btn-default:focus,
+.sppb-btn.btn-default:focus,
+.btn.sppb-btn-default:focus,
+.sppb-btn.sppb-btn-default:focus,
+.pager li>a:hover,
+.pager li>a:focus,
+.pager li>span:hover,
+.pager li>span:focus,
+.event-callto-action .sppb-addon.sppb-addon-cta .sppb-btn.sppb-btn-default,
+.course-callto-action .sppb-addon.sppb-addon-cta .sppb-btn.sppb-btn-default,
+.splms-readmore.btn-primary:hover,
+.splms-readmore.btn-primary:focus,
+.splms.view-splms-course.course-details .btn.btn-primary:hover,
+.splms.view-splms-course.course-details .btn.btn-primary:focus,
+.home-featured-course .sppb-addon-button-group .sppb-btn-default.sppb-btn-lg:hover,
+.home-featured-course .sppb-addon-button-group .sppb-btn-default.sppb-btn-lg:focus,
+.sppb-addon-button-group.lms-categories-button .sppb-btn-default.sppb-btn-lg:hover,
+.sppb-addon-button-group.lms-categories-button .sppb-btn-default.sppb-btn-lg:focus {
+  border-color: #ffc94e;
+}
+.sp-comingsoon .sp-comingsoon-content a {
+  color: #030303;
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+  background: #ffffff;
+}
+.menu-drop-in .sp-has-child .sp-menu-item {
+  background-color: #ffffff;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item>a {
+  color: #7a7a7a;
+}
+.sp-pre-loader {
+  background: #f5f5f5;
+}
+.sp-pre-loader .wave-two li,
+.sp-pre-loader .sp-loader-clock:after,
+.sp-pre-loader .sp-loader-clock:before,
+.sp-pre-loader .sp-loader-circle:after,
+.sp-pre-loader .sp-loader-bubble-loop {
+  background-color: #e00d0d;
+}
+.sp-pre-loader .sp-loader-circle {
+  border-color: rgba(224,13,13,0.7);
+}
+.sp-pre-loader .sp-loader-bubble-loop:before,
+.sp-pre-loader .sp-loader-bubble-loop:after {
+  background-color: rgba(224,13,13,0.5);
+}
+.sp-pre-loader .sp-loader-clock,
+.sp-pre-loader .circle-two > span,
+.sp-pre-loader .circle-two > span:before,
+.sp-pre-loader .circle-two > span:after {
+  border-color: #e00d0d;
+}
+.sp-pre-loader .sp-loader-audio-wave {
+  background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+}
+.sp-pre-loader .sp-loader-with-logo .line {
+  background: #e00d0d;
+}
+@keyframes audioWave {
+  25% {
+    background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+    background-repeat: no-repeat;
+    background-size: 0.5em 2em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em;
+  }
+  37.5% {
+    background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+    background-repeat: no-repeat;
+    background-size: 0.5em 0.25em, 0.5em 2em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em;
+  }
+  50% {
+    background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+    background-repeat: no-repeat;
+    background-size: 0.5em 0.25em, 0.5em 0.25em, 0.5em 2em, 0.5em 0.25em, 0.5em 0.25em;
+  }
+  62.5% {
+    background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+    background-repeat: no-repeat;
+    background-size: 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 2em, 0.5em 0.25em;
+  }
+  75% {
+    background: linear-gradient(#e00d0d,#e00d0d) 0 50%, linear-gradient(#e00d0d,#e00d0d) 0.625em 50%, linear-gradient(#e00d0d,#e00d0d) 1.25em 50%, linear-gradient(#e00d0d,#e00d0d) 1.875em 50%, linear-gradient(#e00d0d,#e00d0d) 2.5em 50%;
+    background-repeat: no-repeat;
+    background-size: 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 0.25em, 0.5em 2em;
+  }
+}
+.educon-latest-news-wrap .educon-latest-news .latestnews > div a,
+.addon-splms-courses .splms-course-category .splms-course-info h3.splms-courses-title a {
+  color: #000000;
+}
+.educon-notice-board .latestnews > div a:not(.sppb-btn),
+.sppb-addon-articles-slider .articles-slider p.article-title a,
+.sppb-addon-tweet .sppb-tweet-text,
+.sppb-addon-tweet span.sppb-tweet-username a,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info-wrap h3 a {
+  color: #000000;
+}
